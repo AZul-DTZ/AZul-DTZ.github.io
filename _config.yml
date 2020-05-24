@@ -20,6 +20,7 @@ sidebar-avatar: img/8.jpg      # use absolute URL, seeing it's used in both `/` 
 RSS: false
 # weibo_username:   Azul佐
 zhihu_username:     Azul_D
+github_username:    Azul-DTZ
 
 # Build settings
 # from 2016, 'pygments' is unupported on GitHub Pages. Use 'rouge' for highlighting instead.
